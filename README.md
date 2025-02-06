@@ -10,6 +10,10 @@ The system manages bus trips between Egyptian cities (stations) where:
 - Users can book seats for any segment of the trip
 - System prevents double booking of seats for overlapping segments
 
+## ERD Diagram
+
+![ERD Diagram](erd.png)
+
 ## Technical Stack
 
 - PHP 8.1+
