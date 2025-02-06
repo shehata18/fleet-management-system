@@ -26,6 +26,13 @@ git clone https://github.com/shehata18/fleet-management-system.git
 cd fleet-management-system
 composer install
 ```
+for laravel sanctum you need to run this command to install the package
+
+```bash
+composer require laravel/sanctum
+```
+and then you need to run this command to publish the migrations
+
 
 2. Create a `.env` file and configure the database:
 
